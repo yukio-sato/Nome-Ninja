@@ -2,7 +2,7 @@
 for (int i = 0; i < 18; i++)
 {
     Console.Write("Escreva seu nome: "[i]);
-    //Console.Beep(1350, 75);
+    Console.Beep(1350, 75);
 }
 string nomedigitado = Console.ReadLine()!;
 string nomeninja = nomedigitado
